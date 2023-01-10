@@ -1,0 +1,27 @@
+.forms{
+    width: 300px;
+    padding: 10px 15px;
+    font-size: 10px;
+    border-radius: 30px;
+}
+
+.submit{
+    padding: 10px 20px;
+    font-size: 15px;
+    background-color: cadetblue;
+    color: aliceblue;
+    border-radius: 30px;
+    margin-top: 10px;
+    margin-left: 100px;
+}
+
+.submit:hover{
+    background-color: rgb(6, 86, 88);
+}
+
+.lists{
+    border: 2px;
+    border-radius: 5px;
+    padding: 20px;
+    list-style: none;
+}
